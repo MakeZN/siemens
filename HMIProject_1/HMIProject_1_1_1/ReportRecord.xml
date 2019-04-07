@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project filever="1.0" ProjectVer="1.0">
+	<RecipeDataSet>
+		<Recipe ID="1" Vession="1" RecipeName="recipe" TotalGroup="30" TotalElement="6" FunAddr="HDW70" CtrlType="1" UseMultiFile="0" UseDifferentWriteAddr="1" UseIndexFun="1" UseInsertFun="0" WriteStartAddr="HAW200" WriteGroupAddr="HAW101" WriteFileAddr="" IndexAddrLen="6" IndexStartAddr="HAW300" IndexGroupNOAddr="HAW101" IndexFileNameAddr="" InsertStartAddr="" InsertGroupNOAddr="" InsertFileNameAddr="" ReadStartAddr="DBxDBW800000" ReadGroupAddr="DBxDBW800012" ReadFileAddr="" QueryByElem="" CurElem="">
+			<Element ElemID="0" Name="A称重量Elem1Elem1Elem1Elem1Elem1Elem1Elem1" DataFormat="105" Len="1" ReadAddr="DBxDBW800000" WriteAddr="HAW200" IndexAddr="HAW300" InsertAddr="" DigitCount="4.0"/>
+			<Element ElemID="1" Name="B称重量Elem2Elem2Elem2Elem2Elem2Elem2Elem2" DataFormat="105" Len="1" ReadAddr="DBxDBW800002" WriteAddr="HAW201" IndexAddr="HAW301" InsertAddr="" DigitCount="4.0"/>
+			<Element ElemID="2" Name="A加料时间Elem3Elem3Elem3Elem3Elem3Elem3Elem3" DataFormat="105" Len="1" ReadAddr="DBxDBW800004" WriteAddr="HAW202" IndexAddr="HAW302" InsertAddr="" DigitCount="4.0"/>
+			<Element ElemID="3" Name="B 加料时间Elem4Elem4Elem4Elem4Elem4Elem4Elem4" DataFormat="105" Len="1" ReadAddr="DBxDBW800006" WriteAddr="HAW203" IndexAddr="HAW303" InsertAddr="" DigitCount="4.0"/>
+			<Element ElemID="4" Name="A加料速度Elem5Elem5Elem5Elem5Elem5Elem5Elem5" DataFormat="105" Len="1" ReadAddr="DBxDBW800008" WriteAddr="HAW204" IndexAddr="HAW304" InsertAddr="" DigitCount="4.0"/>
+			<Element ElemID="5" Name="B加料速度Elem6Elem6Elem6Elem6Elem6Elem6Elem6" DataFormat="105" Len="1" ReadAddr="DBxDBW800010" WriteAddr="HAW205" IndexAddr="HAW305" InsertAddr="" DigitCount="4.0"/></Recipe></RecipeDataSet>
+	<BitAlarmSet>
+		<Alarm GroupID="182" bitaddr="DBxDB78.0" Trigger="1" bSave="1" UseBuzzer="0" StrIndex="" ScreenNo="5002" PopAlWndOnce="1" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0"/></BitAlarmSet></project>
