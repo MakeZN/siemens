@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ScrInfo ScreenNo="0" ScreenType="" ScreenSize="0">
 <PartInfo PartType="Rect" PartName="REC_12" PartClassifyType="OtherClassType">
-<General Area="48 244 615 544" Rx="0" LineType="5" BorderColor="0x0 -1" Pattern="-1" BgColor="0x0 0" PatternNew="1" BgColorNew="0xff0000 -1" ChangeColor="0xffffff 0" IsCirleAngle="1" IsCorlorAddr="0" LineTranValue="0" IsTranValue="0" LineWidth="3" CirleAngle="20" IsMoveControl="0"/></PartInfo>
+<General Area="48 244 615 544" Rx="0" LineType="5" BorderColor="0x0 -1" Pattern="-1" BgColor="0x0 0" PatternNew="1" BgColorNew="0xbd8502 -1" ChangeColor="0xffffff 0" IsCirleAngle="1" IsCorlorAddr="0" LineTranValue="0" IsTranValue="0" LineWidth="3" CirleAngle="20" IsMoveControl="0"/></PartInfo>
 <PartInfo PartType="Rect" PartName="REC_13" PartClassifyType="OtherClassType">
-<General Area="53 249 610 539" Rx="0" LineType="5" BorderColor="0x0 -1" Pattern="-1" BgColor="0x0 0" PatternNew="1" BgColorNew="0x80ff00 -1" ChangeColor="0xffffff 0" IsCirleAngle="1" IsCorlorAddr="0" LineTranValue="0" IsTranValue="0" LineWidth="3" CirleAngle="20" IsMoveControl="0"/></PartInfo>
+<General Area="53 249 610 539" Rx="0" LineType="5" BorderColor="0x0 -1" Pattern="-1" BgColor="0x0 0" PatternNew="1" BgColorNew="0xbd8502 -1" ChangeColor="0xffffff 0" IsCirleAngle="1" IsCorlorAddr="0" LineTranValue="0" IsTranValue="0" LineWidth="3" CirleAngle="20" IsMoveControl="0"/></PartInfo>
 <PartInfo PartType="Rect" PartName="REC_11" PartClassifyType="OtherClassType">
 <General Area="462 264 582 299" Rx="0" BorderColor="0x0 -1" Pattern="-1" BgColor="0x0 0" PatternNew="1" BgColorNew="0x808080 -1" ChangeColor="0xffffff 0" IsCirleAngle="0" IsCorlorAddr="0" LineTranValue="0" IsTranValue="0" LineWidth="3" CirleAngle="1" IsMoveControl="0"/></PartInfo>
 <PartInfo PartType="Rect" PartName="REC_10" PartClassifyType="OtherClassType">
@@ -113,7 +113,7 @@
 <TrigHide UseShowHide="0" HideType="0" IsHideAllTime="0"/>
 <Glint UseGlint="0" Glintfrq="0"/>
 <Label Status="0" Bold="0" LaIndexID="称重方式" CharSize="2114141414141414" LaFrnColor="0x0 0" svgfile="Button\Button0104.svg" dark="0x0 0" light="0x0 0" hlight="0x0 0" shadow="0x0 0" shape="0x404c4 0" gstartcolor="0x0 0" gmidcolor="0x0 0" gendcolor="0x0 0" Pattern="1" FrnColor="0xfdf0c4 0" BgColor="0xfdf0c4 0"/>
-<Label Status="1" Bold="0" LaIndexID="计时方式" CharSize="1414141414141414" LaFrnColor="0x0 0" svgfile="Button\Button0106.svg" dark="0x0 0" light="0x0 0" hlight="0x0 0" shadow="0x0 0" shape="0x339900 0" gstartcolor="0x0 0" gmidcolor="0x0 0" gendcolor="0x0 0" Pattern="1" FrnColor="0xfdf0c4 0" BgColor="0xfdf0c4 0"/></PartInfo>
+<Label Status="1" Bold="0" LaIndexID="称重方式" CharSize="2114141414141414" LaFrnColor="0x0 0" svgfile="Button\Button0106.svg" dark="0x0 0" light="0x0 0" hlight="0x0 0" shadow="0x0 0" shape="0x339900 0" gstartcolor="0x0 0" gmidcolor="0x0 0" gendcolor="0x0 0" Pattern="1" FrnColor="0xfdf0c4 0" BgColor="0xfdf0c4 0"/></PartInfo>
 <PartInfo PartType="Rect" PartName="REC_8" PartClassifyType="OtherClassType">
 <General Area="84 328 204 363" Rx="0" BorderColor="0x0 -1" Pattern="-1" BgColor="0x0 0" PatternNew="1" BgColorNew="0x808080 -1" ChangeColor="0xffffff 0" IsCirleAngle="0" IsCorlorAddr="0" LineTranValue="0" IsTranValue="0" LineWidth="3" CirleAngle="1" IsMoveControl="0"/></PartInfo>
 <PartInfo PartType="Text" PartName="TXT_9" PartClassifyType="OtherClassType">
@@ -206,11 +206,8 @@
 <UserAuthority IsUseUserAuthority="0" IsPopUserLoginWin="0" PopType="0" IsHidePart="0"/></PartInfo>
 <PartInfo PartType="Text" PartName="TXT_13" PartClassifyType="OtherClassType">
 <General TextContent="加料_时间" LaFrnColor="0x0 0" IsBackColor="0" BgColor="0xfdf0c4 0" CharSize="1914141414141414" Bold="0" StartPt="92 486" Width="104" Height="22" Area="92 486 196 508"/></PartInfo>
-<PartInfo PartType="Text" PartName="TXT_0" PartClassifyType="OtherClassType">
-<General TextContent="读取
-配方" LaFrnColor="0xff0000 -1" IsBackColor="0" BgColor="0xfdf0c4 0" CharSize="2014141414141414" Bold="0" StartPt="56 95" Width="54" Height="56" Area="56 95 110 151"/></PartInfo>
 <PartInfo PartType="Rect" PartName="REC_4" PartClassifyType="OtherClassType">
-<General Area="48 78 615 212" Rx="0" LineType="5" BorderColor="0x0 -1" Pattern="-1" BgColor="0x0 0" PatternNew="1" BgColorNew="0x808040 -1" ChangeColor="0xffffff 0" IsCirleAngle="1" IsCorlorAddr="0" LineTranValue="0" IsTranValue="0" LineWidth="3" CirleAngle="8" IsMoveControl="0"/></PartInfo>
+<General Area="48 78 615 212" Rx="0" LineType="5" BorderColor="0x0 -1" Pattern="-1" BgColor="0x0 0" PatternNew="1" BgColorNew="0xbd8502 -1" ChangeColor="0xffffff 0" IsCirleAngle="1" IsCorlorAddr="0" LineTranValue="0" IsTranValue="0" LineWidth="3" CirleAngle="8" IsMoveControl="0"/></PartInfo>
 <PartInfo PartType="Numeric" PartName="NUM_0" PartClassifyType="InputAndShow">
 <General Desc="NUM_3" Area="541 131 606 161" CharSize="1414141414141414" WordAddr="DBxDBW800010" Fast="0" HighLowChange="0" IsInput="0" KbdScreen="1000" IsPopKeyBrod="0" FigureFile="" LaStartPt="0 0" BorderColor="0xf7e7ad 0" LaFrnColor="0x0 -1" BgColor="0xfdf0c4 0" BmpIndex="115" KbdPos="1" IsHideNum="0" HighZeroPad="0" IsShowPwd="0" ZeroNoDisplay="0" IsIndirectR="0" IsIndirectW="0"/>
 <SVGColor svgfile="Rectangle\Rectangle0200.svg" dark="0x0 0" light="0xffffff 0" hlight="0x0 0" shadow="0x333333 0" shape="0x0 0" gstartcolor="0x0 0" gmidcolor="0x0 0" gendcolor="0x0 0"/>
@@ -277,11 +274,11 @@
 <TrigHide UseShowHide="0" HideType="0" IsHideAllTime="0"/>
 <Lock Lockmate="0" UnDrawLock="0" LockMode="0"/>
 <ClickPopTrig/>
-<UserAuthority IsUseUserAuthority="1" IsPopUserLoginWin="1" UserGroupIdSet="1" UserLogInfo="登陆后获取修改权限！" PopType="1" IsHidePart="0"/></PartInfo>
+<UserAuthority IsUseUserAuthority="1" IsPopUserLoginWin="1" UserGroupIdSet="2" UserLogInfo="登陆后获取修改权限！" PopType="1" IsHidePart="0"/></PartInfo>
 <PartInfo PartType="Line" PartName="LN_1" PartClassifyType="OtherClassType">
 <General Area="117 78 121 210" BorderColor="0x0 -1" StartPt="119 78" EndPt="119 210" AutoAdsorption="20" LineWidth="3" DynamicSet="0" LineTranValue="0" IsMoveControl="0" IsCorlorAddr="0"/></PartInfo>
 <PartInfo PartType="Rect" PartName="REC_7" PartClassifyType="OtherClassType">
-<General Area="54 83 114 207" Rx="0" LineType="5" BorderColor="0x0 -1" Pattern="-1" BgColor="0x0 0" PatternNew="1" BgColorNew="0x808000 -1" ChangeColor="0xffffff 0" IsCirleAngle="1" IsCorlorAddr="0" LineTranValue="0" IsTranValue="0" LineWidth="3" CirleAngle="10" IsMoveControl="0"/></PartInfo>
+<General Area="54 83 114 207" Rx="0" LineType="5" BorderColor="0x0 -1" Pattern="-1" BgColor="0x0 0" PatternNew="1" BgColorNew="0xff0000 -1" ChangeColor="0xffffff 0" IsCirleAngle="1" IsCorlorAddr="0" LineTranValue="0" IsTranValue="0" LineWidth="3" CirleAngle="10" IsMoveControl="0"/></PartInfo>
 <PartInfo PartType="Text" PartName="TXT_3" PartClassifyType="OtherClassType">
 <General TextContent="配方
 显示" LaFrnColor="0xffffff -1" IsBackColor="0" BgColor="0xfdf0c4 0" CharSize="2014141414141414" Bold="0" StartPt="57 118" Width="54" Height="56" Area="57 118 111 174"/></PartInfo>
@@ -293,7 +290,7 @@
 <TrigHide UseShowHide="0" HideType="0" IsHideAllTime="0"/>
 <Lock Lockmate="0" UnDrawLock="0" LockMode="0"/>
 <ClickPopTrig/>
-<UserAuthority IsUseUserAuthority="1" IsPopUserLoginWin="1" UserGroupIdSet="1" PopType="1" IsHidePart="0"/>
+<UserAuthority IsUseUserAuthority="1" IsPopUserLoginWin="1" UserGroupIdSet="2" PopType="1" IsHidePart="0"/>
 <Label Status="0" Pattern="1" FrnColor="0xfdf0c4 0" BgColor="0xfdf0c4 0" Bold="0" LaIndexID="加载" CharSize="2222222222222222" LaFrnColor="0x0 0"/></PartInfo>
 <PartInfo PartType="Rect" PartName="REC_14" PartClassifyType="OtherClassType">
 <General Area="187 171 252 201" Rx="0" BorderColor="0x0 -1" Pattern="-1" BgColor="0x0 0" PatternNew="1" BgColorNew="0x808000 -1" ChangeColor="0xffffff 0" IsCirleAngle="0" IsCorlorAddr="0" LineTranValue="0" IsTranValue="0" LineWidth="3" CirleAngle="1" IsMoveControl="0"/></PartInfo>
@@ -321,11 +318,7 @@
 <General TextContent="A料速度" LaFrnColor="0x0 0" IsBackColor="0" BgColor="0xfdf0c4 0" CharSize="2414141414141414" Bold="0" StartPt="472 175" Width="60" Height="22" Area="472 175 532 197"/></PartInfo>
 <PartInfo PartType="Text" PartName="TXT_17" PartClassifyType="OtherClassType">
 <General TextContent="名称:" LaFrnColor="0x400000 -1" IsBackColor="0" BgColor="0xfdf0c4 0" CharSize="1914141414141414" Bold="0" StartPt="123 175" Width="58" Height="22" Area="123 175 181 197"/></PartInfo>
-<PartInfo PartType="String" PartName="STR_0" PartClassifyType="InputAndShow">
-<General Desc="STR_0" Area="585 0 800 55" WordAddr="HUW1349" Fast="1" stCount="256" HighLowChange="0" IsInput="0" KbdScreen="1001" IsPopKeyBrod="0" FigureFile="" BorderColor="0xf7e7ad 0" LaFrnColor="0x0 0" BgColor="0xfdf0c4 0" BmpIndex="118" CharSize="1414141414141414" IsHideNum="0" IsShowPwd="0" IsIndirectR="0" IsIndirectW="0" IsInputDefault="0" IsDWord="0"/>
-<SVGColor svgfile="Rectangle\Rectangle0105.svg" dark="0x0 0" light="0xffffff 0" hlight="0x0 0" shadow="0xaa00 0" shape="0x0 0" gstartcolor="0x0 0" gmidcolor="0x0 0" gendcolor="0x0 0"/>
-<TrigHide UseShowHide="0" HideType="0" IsHideAllTime="0"/>
-<MoveZoom DataFormatMZ="4" MutipleMZ="1.000000000000000"/>
-<Lock Lockmate="0" UnDrawLock="0" LockMode="0"/>
-<ClickPopTrig/>
-<UserAuthority IsUseUserAuthority="0" IsPopUserLoginWin="0" PopType="0" IsHidePart="0"/></PartInfo></ScrInfo>
+<PartInfo PartType="Bitmap" PartName="BMP_0" PartClassifyType="Pic">
+<General Desc="BMP_0" StartPt="590 6" Width="205" Height="46" BmpIndex="101" UsePicDispFun="0" FolderType="0"/>
+<SVGColor svgfile="" dark="0x0 0" light="0x0 0" hlight="0x0 0" shadow="0x0 0" shape="0x0 0" gstartcolor="0x0 0" gmidcolor="0x0 0" gendcolor="0x0 0"/>
+<MoveZoom DataFormatMZ="0" MutipleMZ="1.000000000000000"/></PartInfo></ScrInfo>
