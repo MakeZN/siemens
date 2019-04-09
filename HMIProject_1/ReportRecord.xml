@@ -9,4 +9,48 @@
 			<Element ElemID="4" Name="A加料速度Elem5Elem5Elem5Elem5Elem5Elem5Elem5" DataFormat="105" Len="1" ReadAddr="DBxDBW800008" WriteAddr="HAW204" IndexAddr="HAW304" InsertAddr="" DigitCount="4.0"/>
 			<Element ElemID="5" Name="B加料速度Elem6Elem6Elem6Elem6Elem6Elem6Elem6" DataFormat="105" Len="1" ReadAddr="DBxDBW800010" WriteAddr="HAW205" IndexAddr="HAW305" InsertAddr="" DigitCount="4.0"/></Recipe></RecipeDataSet>
 	<BitAlarmSet>
-		<Alarm GroupID="182" bitaddr="DBxDB78.0" Trigger="1" bSave="1" UseBuzzer="0" StrIndex="" ScreenNo="5002" PopAlWndOnce="1" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0"/></BitAlarmSet></project>
+		<Alarm GroupID="0" bitaddr="DBxDB780000.0" Trigger="1" bSave="1" UseBuzzer="1" Freq="0" BuzzerTime="0" IsBeepOne="1" StrIndex="" ScreenNo="5002" PopAlWndOnce="1" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0"/>
+		<Alarm GroupID="1" bitaddr="DBxDB780000.1" Trigger="1" bSave="1" UseBuzzer="1" Freq="0" BuzzerTime="0" IsBeepOne="1" StrIndex="" ScreenNo="5002" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0"/>
+		<Alarm GroupID="2" bitaddr="DBxDB780000.2" Trigger="1" bSave="1" UseBuzzer="1" Freq="0" BuzzerTime="0" IsBeepOne="1" StrIndex="" ScreenNo="5002" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0"/>
+		<Alarm GroupID="3" bitaddr="DBxDB780000.3" Trigger="1" bSave="1" UseBuzzer="1" Freq="0" BuzzerTime="0" IsBeepOne="1" StrIndex="" ScreenNo="5002" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0"/>
+		<Alarm GroupID="4" bitaddr="DBxDB780000.4" Trigger="1" bSave="1" UseBuzzer="1" Freq="0" BuzzerTime="0" IsBeepOne="1" StrIndex="" ScreenNo="5002" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0"/>
+		<Alarm GroupID="12" bitaddr="DBxDB780001.2" Trigger="1" bSave="1" UseBuzzer="1" Freq="0" BuzzerTime="0" IsBeepOne="1" StrIndex="" ScreenNo="5002" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0"/>
+		<Alarm GroupID="13" bitaddr="DBxDB780001.3" Trigger="1" bSave="1" UseBuzzer="0" StrIndex="" ScreenNo="5002" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0"/>
+		<Alarm GroupID="17" bitaddr="DBxDB780001.7" Trigger="1" bSave="1" UseBuzzer="0" StrIndex="" ScreenNo="5002" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0"/>
+		<Alarm GroupID="20" bitaddr="DBxDB780002.0" Trigger="1" bSave="1" UseBuzzer="0" StrIndex="" ScreenNo="5002" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0"/>
+		<Alarm GroupID="24" bitaddr="DBxDB780002.4" Trigger="1" bSave="1" UseBuzzer="0" StrIndex="" ScreenNo="5002" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0"/>
+		<Alarm GroupID="25" bitaddr="DBxDB780002.5" Trigger="1" bSave="1" UseBuzzer="0" StrIndex="" ScreenNo="5002" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0"/>
+		<Alarm GroupID="26" bitaddr="DBxDB780002.6" Trigger="1" bSave="1" UseBuzzer="0" StrIndex="" ScreenNo="5002" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0"/>
+		<Alarm GroupID="27" bitaddr="DBxDB780002.7" Trigger="1" bSave="1" UseBuzzer="0" StrIndex="" ScreenNo="5002" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0"/>
+		<Alarm GroupID="30" bitaddr="DBxDB780003.0" Trigger="1" bSave="1" UseBuzzer="0" StrIndex="" ScreenNo="5002" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0"/>
+		<Alarm GroupID="35" bitaddr="DBxDB780003.5" Trigger="1" bSave="1" UseBuzzer="0" StrIndex="" ScreenNo="5002" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0"/>
+		<Alarm GroupID="36" bitaddr="DBxDB780003.6" Trigger="1" bSave="1" UseBuzzer="0" StrIndex="" ScreenNo="5002" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0"/>
+		<Alarm GroupID="43" bitaddr="DBxDB780004.3" Trigger="1" bSave="1" UseBuzzer="0" StrIndex="" ScreenNo="5002" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0"/>
+		<Alarm GroupID="44" bitaddr="DBxDB780004.4" Trigger="1" bSave="1" UseBuzzer="0" StrIndex="" ScreenNo="5002" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0"/>
+		<Alarm GroupID="50" bitaddr="DBxDB780005.0" Trigger="1" bSave="1" UseBuzzer="0" StrIndex="" ScreenNo="5002" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0"/>
+		<Alarm GroupID="51" bitaddr="DBxDB780005.1" Trigger="1" bSave="1" UseBuzzer="0" StrIndex="" ScreenNo="-1" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0"/>
+		<Alarm GroupID="52" bitaddr="DBxDB780005.2" Trigger="1" bSave="1" UseBuzzer="0" StrIndex="" ScreenNo="-1" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0"/>
+		<Alarm GroupID="53" bitaddr="DBxDB780005.3" Trigger="1" bSave="1" UseBuzzer="0" StrIndex="" ScreenNo="-1" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0"/>
+		<Alarm GroupID="54" bitaddr="DBxDB780005.4" Trigger="1" bSave="1" UseBuzzer="0" StrIndex="" ScreenNo="-1" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0"/>
+		<Alarm GroupID="62" bitaddr="DBxDB780006.2" Trigger="1" bSave="1" UseBuzzer="0" StrIndex="" ScreenNo="-1" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0"/>
+		<Alarm GroupID="63" bitaddr="DBxDB780006.3" Trigger="1" bSave="1" UseBuzzer="0" StrIndex="" ScreenNo="-1" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0"/>
+		<Alarm GroupID="67" bitaddr="DBxDB780006.7" Trigger="1" bSave="1" UseBuzzer="0" StrIndex="" ScreenNo="-1" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0"/>
+		<Alarm GroupID="70" bitaddr="DBxDB780007.0" Trigger="1" bSave="1" UseBuzzer="0" StrIndex="" ScreenNo="-1" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0"/>
+		<Alarm GroupID="74" bitaddr="DBxDB780007.4" Trigger="1" bSave="1" UseBuzzer="0" StrIndex="" ScreenNo="-1" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0"/>
+		<Alarm GroupID="75" bitaddr="DBxDB780007.5" Trigger="1" bSave="1" UseBuzzer="0" StrIndex="" ScreenNo="-1" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0"/>
+		<Alarm GroupID="76" bitaddr="DBxDB780007.6" Trigger="1" bSave="1" UseBuzzer="0" StrIndex="" ScreenNo="-1" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0"/>
+		<Alarm GroupID="77" bitaddr="DBxDB780007.7" Trigger="1" bSave="1" UseBuzzer="0" StrIndex="" ScreenNo="-1" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0"/>
+		<Alarm GroupID="80" bitaddr="DBxDB780008.0" Trigger="1" bSave="1" UseBuzzer="0" StrIndex="" ScreenNo="-1" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0"/>
+		<Alarm GroupID="86" bitaddr="DBxDB780008.6" Trigger="1" bSave="1" UseBuzzer="0" StrIndex="" ScreenNo="-1" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0"/>
+		<Alarm GroupID="87" bitaddr="DBxDB780008.7" Trigger="1" bSave="1" UseBuzzer="0" StrIndex="" ScreenNo="-1" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0"/>
+		<Alarm GroupID="93" bitaddr="DBxDB780009.3" Trigger="1" bSave="1" UseBuzzer="0" StrIndex="" ScreenNo="-1" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0"/>
+		<Alarm GroupID="94" bitaddr="DBxDB780009.4" Trigger="1" bSave="1" UseBuzzer="0" StrIndex="" ScreenNo="-1" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0"/>
+		<Alarm GroupID="100" bitaddr="DBxDB780010.0" Trigger="1" bSave="1" UseBuzzer="0" StrIndex="" ScreenNo="-1" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0"/>
+		<Alarm GroupID="101" bitaddr="DBxDB780010.1" Trigger="1" bSave="1" UseBuzzer="0" StrIndex="" ScreenNo="-1" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0"/>
+		<Alarm GroupID="102" bitaddr="DBxDB780010.2" Trigger="1" bSave="1" UseBuzzer="0" StrIndex="" ScreenNo="-1" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0"/>
+		<Alarm GroupID="103" bitaddr="DBxDB780010.3" Trigger="1" bSave="1" UseBuzzer="0" StrIndex="" ScreenNo="-1" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0"/>
+		<Alarm GroupID="104" bitaddr="DBxDB780010.4" Trigger="1" bSave="1" UseBuzzer="0" StrIndex="" ScreenNo="-1" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0"/>
+		<Alarm GroupID="112" bitaddr="DBxDB780011.2" Trigger="1" bSave="1" UseBuzzer="0" StrIndex="" ScreenNo="-1" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0"/>
+		<Alarm GroupID="113" bitaddr="DBxDB780011.3" Trigger="1" bSave="1" UseBuzzer="0" StrIndex="" ScreenNo="-1" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0"/>
+		<Alarm GroupID="117" bitaddr="DBxDB780011.7" Trigger="1" bSave="1" UseBuzzer="0" StrIndex="" ScreenNo="-1" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0"/>
+		<Alarm GroupID="120" bitaddr="DBxDB780012.0" Trigger="1" bSave="1" UseBuzzer="0" StrIndex="" ScreenNo="-1" PopAlWndOnce="0" DelayTime="1000" PointPos="0 0" bIsDestoryWind="0" notice="0"/></BitAlarmSet></project>

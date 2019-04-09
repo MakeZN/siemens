@@ -102,8 +102,6 @@
 <General TextContent="进料阀循环时间：" LaFrnColor="0x0 0" IsBackColor="0" BgColor="0xfdf0c4 0" CharSize="1914141414141414" Bold="0" StartPt="116 233" Width="184" Height="22" Area="116 233 300 255"/></PartInfo>
 <PartInfo PartType="Text" PartName="TXT_3" PartClassifyType="OtherClassType">
 <General TextContent="出料阀循环时间：" LaFrnColor="0x0 0" IsBackColor="0" BgColor="0xfdf0c4 0" CharSize="1914141414141414" Bold="0" StartPt="116 291" Width="184" Height="22" Area="116 291 300 313"/></PartInfo>
-<PartInfo PartType="Text" PartName="TXT_4" PartClassifyType="OtherClassType">
-<General TextContent="加压__ __时间：" LaFrnColor="0x0 0" IsBackColor="0" BgColor="0xfdf0c4 0" CharSize="1914141414141414" Bold="0" StartPt="116 407" Width="184" Height="22" Area="116 407 291 429"/></PartInfo>
 <PartInfo PartType="Text" PartName="TXT_5" PartClassifyType="OtherClassType">
 <General TextContent="排气阀循环时间：" LaFrnColor="0x0 0" IsBackColor="0" BgColor="0xfdf0c4 0" CharSize="1914141414141414" Bold="0" StartPt="116 350" Width="184" Height="22" Area="116 350 300 372"/></PartInfo>
 <PartInfo PartType="Numeric" PartName="NUM_0" PartClassifyType="InputAndShow">
@@ -171,15 +169,6 @@
 <UserAuthority IsUseUserAuthority="0" IsPopUserLoginWin="0" PopType="0" IsHidePart="0"/></PartInfo>
 <PartInfo PartType="Numeric" PartName="NUM_9" PartClassifyType="InputAndShow">
 <General Desc="NUM_0" Area="513 339 633 384" CharSize="1914141414141414" WordAddr="DBxDBW790198" Fast="0" HighLowChange="0" IsInput="0" KbdScreen="1000" IsPopKeyBrod="0" FigureFile="" LaStartPt="0 0" BorderColor="0xf7e7ad 0" LaFrnColor="0x0 0" BgColor="0xfdf0c4 0" BmpIndex="115" IsHideNum="0" HighZeroPad="0" IsShowPwd="0" ZeroNoDisplay="0" IsIndirectR="0" IsIndirectW="0"/>
-<SVGColor svgfile="Rectangle\Rectangle0200.svg" dark="0x0 0" light="0xffffff 0" hlight="0x0 0" shadow="0x333333 0" shape="0x0 0" gstartcolor="0x0 0" gmidcolor="0x0 0" gendcolor="0x0 0"/>
-<DispFormat DispType="105" DigitCount="4 0" DataLimit="0105 04 00 0 9999" IsVar="0" Zoom="0" Mutiple="1.000000000000000" Round="1" IsInputLabelL="0" IsInputLabelR="0" IsInputDefault="0" bShowRange="0" IsVar1="0" ColorHText="0x0 0" ColorHBag="0x0 0" ColorLText="0x0 0" ColorLBag="0x0 0" UseOutRangeText="0"/>
-<MoveZoom DataFormatMZ="0" MutipleMZ="1.000000000000000"/>
-<TrigHide UseShowHide="0" HideType="0" IsHideAllTime="0"/>
-<Lock Lockmate="0" UnDrawLock="0" LockMode="0"/>
-<ClickPopTrig/>
-<UserAuthority IsUseUserAuthority="0" IsPopUserLoginWin="0" PopType="0" IsHidePart="0"/></PartInfo>
-<PartInfo PartType="Numeric" PartName="NUM_10" PartClassifyType="InputAndShow">
-<General Desc="NUM_0" Area="513 396 633 441" CharSize="1914141414141414" WordAddr="DBxDBW790202" Fast="0" HighLowChange="0" IsInput="0" KbdScreen="1000" IsPopKeyBrod="0" FigureFile="" LaStartPt="0 0" BorderColor="0xf7e7ad 0" LaFrnColor="0x0 0" BgColor="0xfdf0c4 0" BmpIndex="115" IsHideNum="0" HighZeroPad="0" IsShowPwd="0" ZeroNoDisplay="0" IsIndirectR="0" IsIndirectW="0"/>
 <SVGColor svgfile="Rectangle\Rectangle0200.svg" dark="0x0 0" light="0xffffff 0" hlight="0x0 0" shadow="0x333333 0" shape="0x0 0" gstartcolor="0x0 0" gmidcolor="0x0 0" gendcolor="0x0 0"/>
 <DispFormat DispType="105" DigitCount="4 0" DataLimit="0105 04 00 0 9999" IsVar="0" Zoom="0" Mutiple="1.000000000000000" Round="1" IsInputLabelL="0" IsInputLabelR="0" IsInputDefault="0" bShowRange="0" IsVar1="0" ColorHText="0x0 0" ColorHBag="0x0 0" ColorLText="0x0 0" ColorLBag="0x0 0" UseOutRangeText="0"/>
 <MoveZoom DataFormatMZ="0" MutipleMZ="1.000000000000000"/>

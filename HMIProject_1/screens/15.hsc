@@ -143,15 +143,6 @@
 <Lock Lockmate="0" UnDrawLock="0" LockMode="0"/>
 <ClickPopTrig/>
 <UserAuthority IsUseUserAuthority="1" IsPopUserLoginWin="1" UserGroupIdSet="0" PopType="1" IsHidePart="0"/></PartInfo>
-<PartInfo PartType="Numeric" PartName="NUM_10" PartClassifyType="InputAndShow">
-<General Desc="NUM_0" Area="330 454 450 499" CharSize="1914141414141414" WordAddr="DBxDBW770066" Fast="0" HighLowChange="0" IsInput="1" WriteAddr="DBxDBW770066" KbdScreen="1000" IsPopKeyBrod="0" FigureFile="" LaStartPt="0 0" BorderColor="0xf7e7ad 0" LaFrnColor="0x0 0" BgColor="0xfdf0c4 0" BmpIndex="111" IsHideNum="0" HighZeroPad="0" IsShowPwd="0" ZeroNoDisplay="0" IsIndirectR="0" IsIndirectW="0"/>
-<SVGColor svgfile="Rectangle\Rectangle0202.svg" dark="0x0 0" light="0xffffff 0" hlight="0x0 0" shadow="0xd45500 0" shape="0x0 0" gstartcolor="0x0 0" gmidcolor="0x0 0" gendcolor="0x0 0"/>
-<DispFormat DispType="105" DigitCount="4 0" DataLimit="0105 04 00 1 100" IsVar="0" Zoom="0" Mutiple="1.000000000000000" Round="1" IsInputLabelL="0" IsInputLabelR="0" IsInputDefault="0" bShowRange="0" IsVar1="0" ColorHText="0x0 0" ColorHBag="0x0 0" ColorLText="0x0 0" ColorLBag="0x0 0" UseOutRangeText="0"/>
-<MoveZoom DataFormatMZ="0" MutipleMZ="1.000000000000000"/>
-<TrigHide UseShowHide="0" HideType="0" IsHideAllTime="0"/>
-<Lock Lockmate="0" UnDrawLock="0" LockMode="0"/>
-<ClickPopTrig/>
-<UserAuthority IsUseUserAuthority="1" IsPopUserLoginWin="1" UserGroupIdSet="0" PopType="1" IsHidePart="0"/></PartInfo>
 <PartInfo PartType="Numeric" PartName="NUM_0" PartClassifyType="InputAndShow">
 <General Desc="NUM_0" Area="513 222 633 267" CharSize="1914141414141414" WordAddr="DBxDBW770030" Fast="0" HighLowChange="0" IsInput="1" WriteAddr="DBxDBW770030" KbdScreen="1000" IsPopKeyBrod="0" FigureFile="" LaStartPt="0 0" BorderColor="0xf7e7ad 0" LaFrnColor="0x0 0" BgColor="0xfdf0c4 0" BmpIndex="111" IsHideNum="0" HighZeroPad="0" IsShowPwd="0" ZeroNoDisplay="0" IsIndirectR="0" IsIndirectW="0"/>
 <SVGColor svgfile="Rectangle\Rectangle0202.svg" dark="0x0 0" light="0xffffff 0" hlight="0x0 0" shadow="0xd45500 0" shape="0x0 0" gstartcolor="0x0 0" gmidcolor="0x0 0" gendcolor="0x0 0"/>
@@ -197,17 +188,6 @@
 <Lock Lockmate="0" UnDrawLock="0" LockMode="0"/>
 <ClickPopTrig/>
 <UserAuthority IsUseUserAuthority="1" IsPopUserLoginWin="1" UserGroupIdSet="0" PopType="1" IsHidePart="0"/></PartInfo>
-<PartInfo PartType="Numeric" PartName="NUM_12" PartClassifyType="InputAndShow">
-<General Desc="NUM_0" Area="513 454 633 499" CharSize="1914141414141414" WordAddr="DBxDBW770068" Fast="0" HighLowChange="0" IsInput="1" WriteAddr="DBxDBW770068" KbdScreen="1000" IsPopKeyBrod="0" FigureFile="" LaStartPt="0 0" BorderColor="0xf7e7ad 0" LaFrnColor="0x0 0" BgColor="0xfdf0c4 0" BmpIndex="111" IsHideNum="0" HighZeroPad="0" IsShowPwd="0" ZeroNoDisplay="0" IsIndirectR="0" IsIndirectW="0"/>
-<SVGColor svgfile="Rectangle\Rectangle0202.svg" dark="0x0 0" light="0xffffff 0" hlight="0x0 0" shadow="0xd45500 0" shape="0x0 0" gstartcolor="0x0 0" gmidcolor="0x0 0" gendcolor="0x0 0"/>
-<DispFormat DispType="105" DigitCount="4 0" DataLimit="0105 04 00 1 100" IsVar="0" Zoom="0" Mutiple="1.000000000000000" Round="1" IsInputLabelL="0" IsInputLabelR="0" IsInputDefault="0" bShowRange="0" IsVar1="0" ColorHText="0x0 0" ColorHBag="0x0 0" ColorLText="0x0 0" ColorLBag="0x0 0" UseOutRangeText="0"/>
-<MoveZoom DataFormatMZ="0" MutipleMZ="1.000000000000000"/>
-<TrigHide UseShowHide="0" HideType="0" IsHideAllTime="0"/>
-<Lock Lockmate="0" UnDrawLock="0" LockMode="0"/>
-<ClickPopTrig/>
-<UserAuthority IsUseUserAuthority="1" IsPopUserLoginWin="1" UserGroupIdSet="0" PopType="1" IsHidePart="0"/></PartInfo>
-<PartInfo PartType="Text" PartName="TXT_1" PartClassifyType="OtherClassType">
-<General TextContent="低速_  _配比：" LaFrnColor="0x0 0" IsBackColor="0" BgColor="0xfdf0c4 0" CharSize="1914141414141414" Bold="0" StartPt="125 464" Width="163" Height="22" Area="125 464 288 486"/></PartInfo>
 <PartInfo PartType="Text" PartName="TXT_4" PartClassifyType="OtherClassType">
 <General TextContent="重量_  _速率:" LaFrnColor="0x0 0" IsBackColor="0" BgColor="0xfdf0c4 0" CharSize="1914141414141414" Bold="0" StartPt="125 120" Width="152" Height="22" Area="125 120 277 142"/></PartInfo>
 <PartInfo PartType="Numeric" PartName="NUM_16" PartClassifyType="InputAndShow">

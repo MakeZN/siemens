@@ -205,7 +205,7 @@
 <ClickPopTrig/>
 <UserAuthority IsUseUserAuthority="0" IsPopUserLoginWin="0" PopType="0" IsHidePart="0"/></PartInfo>
 <PartInfo PartType="Text" PartName="TXT_13" PartClassifyType="OtherClassType">
-<General TextContent="加料_时间" LaFrnColor="0x0 0" IsBackColor="0" BgColor="0xfdf0c4 0" CharSize="1914141414141414" Bold="0" StartPt="92 486" Width="104" Height="22" Area="92 486 196 508"/></PartInfo>
+<General TextContent="送料_时间" LaFrnColor="0x0 0" IsBackColor="0" BgColor="0xfdf0c4 0" CharSize="1914141414141414" Bold="0" StartPt="92 486" Width="104" Height="22" Area="92 486 196 508"/></PartInfo>
 <PartInfo PartType="Rect" PartName="REC_4" PartClassifyType="OtherClassType">
 <General Area="48 78 615 212" Rx="0" LineType="5" BorderColor="0x0 -1" Pattern="-1" BgColor="0x0 0" PatternNew="1" BgColorNew="0xbd8502 -1" ChangeColor="0xffffff 0" IsCirleAngle="1" IsCorlorAddr="0" LineTranValue="0" IsTranValue="0" LineWidth="3" CirleAngle="8" IsMoveControl="0"/></PartInfo>
 <PartInfo PartType="Numeric" PartName="NUM_0" PartClassifyType="InputAndShow">

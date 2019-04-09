@@ -209,4 +209,15 @@
 <PartInfo PartType="Rect" PartName="REC_4" PartClassifyType="OtherClassType">
 <General Area="167 0 583 57" Rx="0" BorderColor="0xffffff -1" Pattern="-1" BgColor="0x0 0" PatternNew="1" BgColorNew="0x0 -1" ChangeColor="0xffffff 0" IsCirleAngle="0" IsCorlorAddr="0" LineTranValue="0" IsTranValue="0" LineWidth="2" CirleAngle="1" IsMoveControl="0"/></PartInfo>
 <PartInfo PartType="Text" PartName="TXT_0" PartClassifyType="OtherClassType">
-<General TextContent="手动画面" LaFrnColor="0xffffff -1" IsBackColor="0" BgColor="0xfdf0c4 0" CharSize="2214141414141414" Bold="0" StartPt="307 10" Width="148" Height="36" Area="307 10 455 46"/></PartInfo></ScrInfo>
+<General TextContent="手动画面" LaFrnColor="0xffffff -1" IsBackColor="0" BgColor="0xfdf0c4 0" CharSize="2214141414141414" Bold="0" StartPt="307 10" Width="148" Height="36" Area="307 10 455 46"/></PartInfo>
+<PartInfo PartType="BitSwitch" PartName="BS_8" PartClassifyType="Switch">
+<General Desc="BS_0" Area="235 314 374 379" OperateAddr="M1001.0" Fast="1" BitFunc="2" Monitor="1" MonitorAddr="M1101.0" FigureFile="" BorderColor="0xf7e7ad 0" BmpIndex="110" Align="3" LaStartPt="20 21" BitShowReverse="0" IsIndirectR="0" IsIndirectW="0"/>
+<Extension TouchState="1" Buzzer="1"/>
+<MoveZoom DataFormatMZ="0" MutipleMZ="1.000000000000000"/>
+<TrigHide UseShowHide="0" HideType="0" IsHideAllTime="0"/>
+<Glint UseGlint="0" Glintfrq="0"/>
+<Lock Lockmate="0" UnDrawLock="0" LockMode="0"/>
+<ClickPopTrig TriggMode="2"/>
+<UserAuthority IsUseUserAuthority="0" IsPopUserLoginWin="0" PopType="0" IsHidePart="0"/>
+<Label Status="0" Pattern="1" FrnColor="0xfdf0c4 0" BgColor="0xfdf0c4 0" Bold="0" LaIndexID="振动加料" CharSize="1919191919191919" LaFrnColor="0x0 0" svgfile="Button\Button0500.svg" dark="0x333333 0" light="0x7f7f7f 0" hlight="0xb2b2b2 0" shadow="0x0 0" shape="0x0 0" gstartcolor="0x0 0" gmidcolor="0x0 0" gendcolor="0x0 0"/>
+<Label Status="1" Pattern="1" FrnColor="0xfdf0c4 0" BgColor="0xfdf0c4 0" Bold="0" LaIndexID="气流加压" CharSize="1919191919191919" LaFrnColor="0x0 0" svgfile="Button\Button0607.svg" dark="0x336600 0" light="0x339900 0" hlight="0x0 0" shadow="0xcccccc 0" shape="0x0 0" gstartcolor="0x0 0" gmidcolor="0x0 0" gendcolor="0x0 0"/></PartInfo></ScrInfo>
